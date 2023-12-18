@@ -7,7 +7,6 @@ public class Encryption {
     private ArrayList<Character> simpleList;
     private ArrayList<Character> shuffledList;
     private char ch;
-    private String line;
     private char[] letters;
 
     Encryption(){
